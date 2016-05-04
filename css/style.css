@@ -1,0 +1,35 @@
+/*
+	Toutes les versions
+*/
+
+/*
+	HEADER
+*/
+
+#myHeader {
+	position: fixed;
+ 	top: 0;
+	width:100%;
+	height: 4em;
+	background-color: #b2dfdb;
+}
+
+#myHeader h1 {
+	margin: 0;
+	border-left: 0;
+}
+/*
+	Version mobile
+*/
+
+@media screen and (max-width: 460px) {
+
+}
+
+/*
+	Version autre
+*/
+
+@media screen and (min-width: 461px) {
+
+}
